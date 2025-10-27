@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Naghiyev
 
-<!--
-**Omar-Naghiyev/omar-naghiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ Gannon University  
+💻 Passionate about **Full-Stack Development** and **AI Integration**  
 
-Here are some ideas to get you started:
+### 🌱 Current Focus
+- Learning  and Building projects with **Python**, **TypeScript**, **React**, and **FastAPI**
+- Developing portfolio and freelance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+`Python` • `TypeScript` • `React` • `FastAPI`
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/omarnaghiyev) • [Email](mailto:me@omarnaghiyev.com)
