@@ -8,7 +8,7 @@
 - Developing portfolio and freelance projects
 
 ### 🧠 Tech Stack
-`Python` • `TypeScript` • `React` • `FastAPI`
+`Python` • `TypeScript` • `React` • `FastAPI` • `Java` • `PostreSQL/MySQL`
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/omarnaghiyev) • [Email](mailto:me@omarnaghiyev.com)
