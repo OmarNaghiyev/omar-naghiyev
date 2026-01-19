@@ -4,7 +4,7 @@
 💻 Passionate about **Full-Stack Development** and **AI Integration**  
 
 ### 🌱 Current Focus
-- Learning  and Building projects with **Python**, **TypeScript**, **React**, and **FastAPI**
+- Learning  and Building projects with **Python**, **TypeScript** and **React**
 - Developing portfolio and freelance projects
 
 ### 🧠 Tech Stack
